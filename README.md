@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Pokhriyal</h1>
 <h3 align="center">A passionate Data Enthusiast</h3>
+<img align ="right" alt = "Coding" width = "400" src = "https://www.datamanagements.in/wp-content/uploads/2022/01/gif.gif">
+
 
 - 🌱 I’m currently learning **SQL, Python, Power BI, and Excel**
 
